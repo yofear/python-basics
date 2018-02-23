@@ -1,5 +1,5 @@
 # python-basics
-dictionary attack script
+# dictionary attack script
 
 from xlrd import *
 import sys
